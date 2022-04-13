@@ -1,1 +1,2 @@
 npx create-react-app . --template redux
+npm install react-router-dom instead of npm install react-router-dom@5.2.0 
